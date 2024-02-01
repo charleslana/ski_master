@@ -1,0 +1,49 @@
+{
+    "activeFile": "Level3.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "Level1.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 160,
+                "y": 511.66666666666663
+            }
+        },
+        "Level2.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 230,
+                "y": 1141
+            }
+        },
+        "Level3.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 246,
+                "y": 53
+            }
+        },
+        "tilemap_packed.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        }
+    },
+    "openFiles": [
+        "tilemap_packed.tsx",
+        "Level1.tmx",
+        "Level2.tmx",
+        "Level3.tmx"
+    ],
+    "project": "ski-master.tiled-project",
+    "recentFiles": [
+        "tilemap_packed.tsx",
+        "Level1.tmx",
+        "Level2.tmx",
+        "Level3.tmx"
+    ]
+}
